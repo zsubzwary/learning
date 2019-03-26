@@ -4,4 +4,8 @@ public class MainClass {
         System.out.println("Hello World !!");
     }
 
+    public int sum(int a, int b) {
+        return a-b;
+    }
+
 }
